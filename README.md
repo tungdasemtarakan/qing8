@@ -278,3 +278,5 @@ If you find OpenShort.link useful, please consider:
 ---
 
 **Built with ❤️ using Cloudflare Workers**
+
+Deployment update
